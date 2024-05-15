@@ -1,0 +1,16 @@
+{
+  "name": "hackbay-beer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "url": "https://github.com/nerdware-dev/hackbay2024",
+    "type": "git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
